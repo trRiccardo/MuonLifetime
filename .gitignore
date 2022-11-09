@@ -1,3 +1,5 @@
 .DS_Store
 *.root
 tac_calibration/data/run.sh
+*.bkp
+*.dtmp
